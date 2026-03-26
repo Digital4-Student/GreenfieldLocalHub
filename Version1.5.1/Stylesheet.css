@@ -1,0 +1,32 @@
+.NAVBAR-bg {
+    background-color: rgba(63, 67, 18, 1);
+}
+
+.NAVLINK-colour {
+    color:rgba(159, 173, 48, 1);
+}
+
+.body{
+    background-color: rgba(243, 222, 162, 1)
+}
+
+.image {
+    max-width: 50%;
+    height: auto;
+}
+
+.textbox{
+    background-color: rgba(146, 151, 140, 1);
+}
+
+.linkcolour:link {
+    color:rgb(35, 107, 39);
+}
+
+.button {
+    color:rgb(35, 107, 39);
+}
+
+.signbox {
+    background-color: rgba(159, 173, 48, 1);
+}
